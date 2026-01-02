@@ -1,0 +1,15 @@
+{
+    "name": "Geering Up Inventory",
+    "materials": [
+        {
+            "name": "Kuromi",
+            "quantity": 19, 
+            "location": "TEF"
+        },
+        {
+            "name": "Cheese",
+            "quantity": 87, 
+            "location": "CHBE"
+        }
+    ]
+}

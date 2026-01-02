@@ -1,0 +1,30 @@
+{
+    "materials": [
+        {
+            "quantity": 25,
+            "name": "Pochacco",
+            "location": "Rusty"
+        },
+        {
+            "quantity": 87,
+            "name": "Blueberries",
+            "location": "CHBE"
+        },
+        {
+            "quantity": 19,
+            "name": "Kuromi",
+            "location": "TEF"
+        },
+        {
+            "quantity": 87,
+            "name": "Cheese",
+            "location": "CHBE"
+        },
+        {
+            "quantity": 2,
+            "name": "Guitar",
+            "location": "ESC"
+        }
+    ],
+    "name": "Geering Up Inventory"
+}

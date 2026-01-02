@@ -1,0 +1,15 @@
+{
+    "materials": [
+        {
+            "quantity": 25,
+            "name": "Pochacco",
+            "location": "Rusty"
+        },
+        {
+            "quantity": 87,
+            "name": "Blueberries",
+            "location": "CHBE"
+        }
+    ],
+    "name": "Geering Up Inventory"
+}
